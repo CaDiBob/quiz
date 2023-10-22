@@ -1,0 +1,5 @@
+aiohttp==3.8.6
+pydantic-settings==2.0.3
+uvicorn==0.23.2
+piccolo==1.0.0
+piccolo[postgres]
